@@ -2,7 +2,7 @@
 
 We are going to build logistic regression from scratch using gradient descent
 
-### $$ Cross Entropy = -\frac{1}{m}\sum_{i=1}^{m}[y^ilog(z(x^i)) + (1-y^i)log(1-z(x^i))]$$
+![png](images/crossentropy.png)
 
 ## Importing Libraries
 
